@@ -16,7 +16,7 @@ Display JSON data as beautiful, interactive collapsible trees in your Obsidian n
 
 1. **Download the plugin files**
    - Download the latest release files from the [releases page](https://github.com/n1az/JSON-viewer/releases)
-   - Or download these files directly from the `json-collapsible` folder in the repository:
+   - Or download these files directly from the repository:
      - `main.js` (required)
      - `manifest.json` (required)
      - `style.css` (optional - can be empty, styles are embedded in main.js)
@@ -148,7 +148,7 @@ To build or modify the plugin:
 
 1. Clone the repository
 2. Navigate to the repository root
-3. Make your changes to the files in the `json-collapsible` folder:
+3. Make your changes to the files:
    - `main.js` - Main plugin code and embedded styles
    - `manifest.json` - Plugin metadata
    - `style.css` - Optional (currently unused, styles are in main.js)
