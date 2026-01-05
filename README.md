@@ -146,9 +146,10 @@ This project is open source and available under the MIT License.
 To build or modify the plugin:
 
 1. Clone the repository
-2. Navigate to the `json-collapsible` folder
-3. Make your changes to `main.js`, `manifest.json`, or `style.css`
-4. Copy the files to your vault's plugin folder for testing
+2. Navigate to the repository root
+3. Make your changes to the files in the `json-collapsible` folder (`main.js`, `manifest.json`, or `style.css`)
+4. Copy the modified files from `json-collapsible/` to your vault's `.obsidian/plugins/json-collapsible/` folder for testing
+5. Restart Obsidian or reload the vault to see your changes
 
 ---
 
